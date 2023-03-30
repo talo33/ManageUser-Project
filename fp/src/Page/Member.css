@@ -1,0 +1,8 @@
+.mem-page {
+    display: flex;
+    background-color: #d6ccc2;
+}
+
+.datagrid {
+    margin: auto;
+}

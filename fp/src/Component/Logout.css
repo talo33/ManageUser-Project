@@ -1,0 +1,15 @@
+.logout {
+    
+    display: flex;
+    gap: 13px;
+    font-size: 20px;
+}
+
+.logout:hover {
+    cursor: pointer;
+    background-color: #d6ccc2;
+    color: #000;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
