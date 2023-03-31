@@ -1,0 +1,10 @@
+.dash-page {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.currenttime {
+    margin-inline: auto;
+    width: 100%;
+}

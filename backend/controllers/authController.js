@@ -12,9 +12,15 @@ const authController = {
       const hashed = await bcrypt.hash(req.body.password, salt);
 
       //Create new user
+      // const newUser = await new User({
+      //   username: req.body.username,
+      //   email: req.body.email,
+      //   password: hashed,
+      // });
       const newUser = await new User({
         username: req.body.username,
         email: req.body.email,
+        phone: req.body.phone,
         password: hashed,
       });
 

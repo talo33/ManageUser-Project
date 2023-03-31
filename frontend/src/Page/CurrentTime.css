@@ -1,0 +1,117 @@
+body {
+    background-image: url("../Asset/Image/bg2.jpg");
+    background-size:  cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.title {
+    color: black;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    margin: 5px;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.loname {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.bd .icon ul {
+    width: 11rem;
+    list-style: none;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: aliceblue;
+    opacity: 0.85;
+}
+
+.bd .icon ul li {
+    padding: 1px;
+    text-align: center;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+.detail ul {
+    list-style: none;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: aliceblue;
+    opacity: 0.85;
+    
+}
+
+.weatherdetail {
+    width: 200px;
+}
+
+.locationdetail {
+    width: 260px;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+}
+
+.detail ul li {
+    padding: 5px;
+    text-align: center;
+}
+
+.input {
+    background: none;
+    font-size: 1.2rem;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+    font-style: italic;
+}
+
+.input:focus {
+    outline: none;
+}
+
+.input::placeholder {
+    color: black;
+    font-style: italic;
+}
+
+.submit {
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    margin-left: 15px;
+    padding: 1rem;
+    outline: none;
+    background-color: #457b9d;
+    cursor: pointer;
+    font-size: 1.2rem;
+    transition: 0.4s
+}
+
+.submit:hover {
+    background: #fff ;
+    color: #000;
+}
+
+.fontaw {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}

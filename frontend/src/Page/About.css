@@ -1,0 +1,75 @@
+.About-page {
+    display: flex;
+    /* background-color: #edede9; */
+    background-image: url("../Asset/Image/bg2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.info-user {
+    /* margin-inline: auto;
+    margin-top: 1%; */
+    width: 100%;
+}
+
+.welcome {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+
+.discus-info {
+    border: 1px solid #fff;
+    border-radius: 30px;
+    width: 35%;
+    margin-left: 33%;
+}
+
+.in-discus-info {
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    color: lightgray;
+}
+
+.form-update-info {
+    width: 50%;
+    margin-left: 25%;
+}
+
+.btn-up {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #264653;
+    color: #fff;
+    margin-left: 43%;
+}
+
+.btn-up:hover {
+    background-color: #d62828;
+    color: #fff;
+    padding: 15px;
+}
+
+.in-info-user {
+    margin-inline: auto;
+    margin-top: 1%;
+    background: rgba(46, 41, 41, 0.25);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    width: fit-content;
+    padding: 20px;
+    border: none;
+    border-radius: 40px;
+}
+
+.textfield {
+    background-color: rgb(217, 214, 214);
+    
+}
