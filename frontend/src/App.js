@@ -22,7 +22,7 @@ import AuthRoute from './Router/AuthRoute';
 function App() {
   return (
     <div >      
-      <BrowserRouter>
+      {/* <BrowserRouter>
         <Routes>
           <Route path='/*' element={<Navigate to='/'/>} />
           <Route path="/" element={ <AuthRoute><Login /></AuthRoute>} />
@@ -51,9 +51,9 @@ function App() {
             }
           />
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
       <div >      
-      {/* <BrowserRouter>  
+      <BrowserRouter>  
            <Routes> 
             <Route path ="/" element={<Login/>}/>
             <Route path = "/register" element={<Register/>}/>
@@ -63,21 +63,7 @@ function App() {
             <Route path = "/about" element={<About/>}/> 
             <Route path = "/time" element={<AboutTL/>}/> 
           </Routes>
-      </BrowserRouter> */}
-      
-      <ToastContainer
-          position="top-right"
-          autoClose={5000}
-          hideProgressBar={false}
-          newestOnTop={false}
-          closeOnClick
-          rtl={false}
-          pauseOnFocusLoss
-          draggable
-          pauseOnHover
-          theme="light"
-          />
-      <ToastContainer />
+      </BrowserRouter>
     </div>
     </div>
   );
