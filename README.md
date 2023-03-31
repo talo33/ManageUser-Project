@@ -13,19 +13,32 @@
 <p>When logging in with the Admin account, you will access the manager's dashboard, where the admin has the right to delete any user in the registered user data table (data in the table is added directly every time someone has registered an account). In addition, on the Admin's page, you can see the current weather information on the Weather page. Finally, you can log out of your account.</p>
 <p><b>User</b></p>
 <p>When logging in with a user account, they will access the detailed information page of the logged in user, where the user can edit their own information. And similar to the Admin page, the user can also see the current weather at the user's weather page. and finally the user can log out of his account</p>
+
 <h1>This is a web application to view the final project</h1>
 <h2>Login</h2>
-![image](https://user-images.githubusercontent.com/114129828/229090692-ac3cae4d-a95b-4ab1-988b-b2a7db1eb539.png)
+
+![image](https://user-images.githubusercontent.com/114129828/229093277-882e7b7a-f694-45ed-9874-0bff1b270a54.png)
+
 <h2>Resgister</h2>
+
 ![image](https://user-images.githubusercontent.com/114129828/229090035-abb7fa06-87a9-4dd1-9069-d0f72ea8484c.png)
+
 <h2>Admin</h2>
 <h3>Manage page</h3>
+
 ![image](https://user-images.githubusercontent.com/114129828/229091021-adfa2d3a-e033-42be-b05d-e4848f4fbee3.png)
+
 <h3>Weather page</h3>
+
 ![image](https://user-images.githubusercontent.com/114129828/229091615-14387c56-c778-40a0-90b2-74fa18e6c21a.png)
+
 <h2>User</h2>
 <h3>Information of user</h2>
+
 ![image](https://user-images.githubusercontent.com/114129828/229091947-10917087-763f-4f2e-84c7-a05660dab876.png)
+
 <h3>Weather page of user</h2>
+
 ![image](https://user-images.githubusercontent.com/114129828/229092068-966ef986-63a3-4d19-b39e-d69c7f3e60dc.png)
+
 
