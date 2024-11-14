@@ -1,5 +1,5 @@
 <h1> Final-Project </h1>
-> This is the final project of Nguyen Thanh Loc
+> This is the personal project of Nguyen Thanh Loc
 <h1> Requirement </h1>
 <p>1. Permissions: Admin & User.</p>
 <p>2. Web operations: List User list in grid form (100 users, each page will contain from 5 ~ 10 users) </p>
